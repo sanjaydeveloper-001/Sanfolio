@@ -297,7 +297,7 @@ body{
     align-items: center;
     height: 320px;
     width: 300px;
-    background-color: rgba(4, 52, 154, 0.5);
+    background-color: #55A2D3;
     gap: 20px;
     border-radius: 20px;
     box-shadow: 0 12px 15px rgb(37, 37, 37);
@@ -314,8 +314,7 @@ body{
 .arch button{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-top: 12px;
-    padding: 10px 25px ;
-    background-color: #55A2D3;
+    padding: 10px 25px;
     border: none;
     font-size: 15px;
     border-radius: 20px;
